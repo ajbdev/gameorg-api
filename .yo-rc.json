@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "GameOrg",
+    "redocVersion": "v1.x.x",
+    "repo": "ajbdev/gameorg-api",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
